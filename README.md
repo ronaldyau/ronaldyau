@@ -1,4 +1,5 @@
-# My Skills(https://skillicons.dev/icons?i=react,nextjs,angular,js,nodejs,ts,html,cs,dotnet,git,vscode,discord,wordpress)](https://skillicons.dev)
+# Skills
+[![SkillIcons](https://skillicons.dev/icons?i=react,nextjs,angular,js,nodejs,ts,html,cs,dotnet,git,vscode,discord,wordpress)](https://skillicons.dev)
 
 
 <!--
